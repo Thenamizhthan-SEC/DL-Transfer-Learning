@@ -47,9 +47,9 @@ Evaluate the model using sigmoid-based predictions and generate the confusion ma
 
 ## PROGRAM
 
-### Name: Ragul K
+### Name: THENAMIZHTHAN V
 
-### Register Number:212224040258
+### Register Number:212225240175
 
 ```
 import torch
